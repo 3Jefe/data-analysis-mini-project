@@ -11,3 +11,10 @@ The script shows how to:
 
 The dataset is a small, made-up example representing website visitors and
 conversions over several days.
+## How to run
+
+1. Install Python 3 and `pip`.
+2. Install dependencies:
+
+   ```bash
+   pip install pandas matplotlib
