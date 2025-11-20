@@ -27,4 +27,4 @@ If you want to recreate the analysis locally:
 pip install pandas matplotlib
 python analysis.py
 visitors_over_time.png
-![Visitors Over Time](visitors_over_time.png)
+![Visitors Over Time](https://raw.githubusercontent.com/3Jefe/data-analysis-mini-project/main/visitors_over_time.png)
