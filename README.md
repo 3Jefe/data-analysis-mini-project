@@ -23,9 +23,9 @@ If you want to recreate the analysis locally:
 1. Install Python 3  
 2. Install required libraries:
 
+
+```markdown
 ```bash
 pip install pandas matplotlib
 python analysis.py
 visitors_over_time.png
-![Visitors Over Time](visitors_over_time.png)
-<!-- refresh -->
