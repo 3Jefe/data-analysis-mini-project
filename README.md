@@ -16,15 +16,13 @@ The goal was to demonstrate a clear, simple analysis workflow that includes:
 ## 📁 Project Structure
 ---
 
-## ▶️ How to Run the Script (Optional)
+## ▶️ How to Run the Script  
 
 If you want to recreate the analysis locally:
 
 1. Install Python 3  
 2. Install required libraries:
 
-
-```markdown
 ```bash
 pip install pandas matplotlib
 python analysis.py
