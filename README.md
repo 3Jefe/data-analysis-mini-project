@@ -1,21 +1,29 @@
-# Data Analysis Mini Project
+ # Data Analysis Mini Project
 
-This small project demonstrates introductory data analysis skills in Python.
+This project is a small, self-contained data analysis exercise designed to
+practise Python, pandas and basic visualisation skills.  
+The dataset represents daily website visitors and conversions for a fictional
+company across one week.
 
-The script shows how to:
+The goal was to demonstrate a clear, simple analysis workflow that includes:
+- Loading data from a CSV file  
+- Exploring and summarising key metrics  
+- Performing small calculations (e.g., conversion rates)  
+- Producing a clean visualisation to highlight patterns in the data  
 
-- Load a simple CSV dataset using `pandas`
-- Explore the data with summary statistics
-- Perform basic grouping and aggregation
-- Create a simple visualisation using `matplotlib`
+---
 
-The dataset is a small, made-up example representing website visitors and
-conversions over several days.
-## How to run
+## 📁 Project Structure
+---
 
-1. Install Python 3 and `pip`.
-2. Install dependencies:
+## ▶️ How to Run the Script (Optional)
 
-   ```bash
-   pip install pandas matplotlib
+If you want to recreate the analysis locally:
+
+1. Install Python 3  
+2. Install required libraries:
+
+```bash
+pip install pandas matplotlib
+python analysis.py
 visitors_over_time.png
