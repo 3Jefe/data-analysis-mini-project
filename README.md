@@ -18,3 +18,4 @@ conversions over several days.
 
    ```bash
    pip install pandas matplotlib
+visitors_over_time.png
